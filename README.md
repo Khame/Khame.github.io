@@ -33,4 +33,4 @@ Push do `main`. GitHub Pages buduje z gałęzi `main`, katalog `/`, bez osobnego
 
 ## Licencja
 
-Brak pliku licencji. Kod i treści są moje, wszelkie prawa zastrzeżone. Jeśli chcesz użyć czegoś z tej strony, napisz.
+Brak pliku licencji. Kod i treści tej strony są moje. Jeśli chcesz czegoś użyć, napisz.
